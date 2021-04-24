@@ -1,11 +1,9 @@
-title: Your awesome title
+title: Mihir Kavishwar
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: mihirvk
+  email: mihirk@iitb.ac.in
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Work in progress 
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -16,14 +14,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    twitter: https://twitter.com/mihirk_394
+    github:  https://github.com/mihirvk
     # devto: jekyll
     # dribbble: jekyll
-    # facebook: jekyll
+    facebook: https://www.facebook.com/mihir.kavishwar710/
     # flickr:   jekyll
     # instagram: jekyll
-    # linkedin: jekyll
+    linkedin: https://www.linkedin.com/in/mihir-kavishwar-862349188/
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
