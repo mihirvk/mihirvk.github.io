@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: ABOUT
 permalink: /about/
 ---
 
@@ -17,4 +17,5 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll -->
 
-Hello world! My name is Mihir Kavishwar. I am a senior undergraduate in the Electrical Engineering Department, IIT Bombay. I plan to use this website to showcase my key projects and share my ideas.  
+Hello world! My name is Mihir Kavishwar. I am a senior undergraduate in the Electrical Engineering Department, IIT Bombay. I plan to use this website to showcase my key projects and share my ideas. 
+![](/home/mihir/personal-website/mihirvk.github.io/images/nashik_dp.jpg)
