@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ABOUT
+title: About
 permalink: /about/
 ---
 
@@ -17,5 +17,12 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll -->
 
-Hello world! My name is Mihir Kavishwar. I am a senior undergraduate in the Electrical Engineering Department, IIT Bombay. I plan to use this website to showcase my key projects and share my ideas. 
-<img src="" alt="Mihir Kavishwar" style="height: 100px; width:100px;"/>
+<img align="left" src="https://raw.githubusercontent.com/mihirvk/mihirvk.github.io/main/images/nashik_dp.jpg?token=ASIXBQGVUOYHQ7OQHGX4O53A2RYTS" alt="Mihir Kavishwar" style="height: 215px; width:215px; padding: 5px 20px 10px 0px;"/> 
+<font size="4">
+<p>
+Hello reader! My name is <b>Mihir Kavishwar</b>. I am a senior undergraduate in the <b>Electrical Engineering Department, IIT Bombay</b>. I am pursuing a Dual Degree (BTech + MTech) focused in <b>Microelectronics</b>. I plan to use this platform to showcase my key projects as well as talk about all the cool stuff in technology and beyond that excites me. 
+</p> 
+<p> 
+While I expect to touch on a diverse set of topics through my blog posts, the theme across most of them will be the same - navigating the various levels of abstraction in order to understand a complex and beautiful idea.  I hope you find the content informative and enjoyable! 
+</p>
+</font>
