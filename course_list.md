@@ -8,17 +8,17 @@ The following is a comprehensive list of all the courses that I completed at IIT
 
 **Microelectronics and VLSI**
 
-- Physics of Transistors [EE620]
-- VLSI Technology [EE669]
-- Microelectronics Simulation and Computer Aided Design [EE677, EE735]
 - Digital VLSI Design [EE671, EE705]
 - Analog CMOS VLSI Design [EE618]
 - Mixed Signal VLSI Design [EE719]
+- Radio Frequency VLSI Design [EE619] (will complete by April 2022)
 - Delta Sigma Data Converters [EE699]
-- Radio Frequency VLSI Design [EE619] (yet to complete)
-- Sensors, Instrumentation and Measurements [EE617]
-- High Speed Interconnects [EE800]
+- VLSI Technology [EE669]
+- Physics of Transistors [EE620]
 - Neuromorphic Engineering [EE746]
+- High Speed Interconnects [EE800]
+- Sensors, Instrumentation and Measurements [EE617]
+- Computer Aided Design [EE677, EE735]
 
 **Computer Science**
 

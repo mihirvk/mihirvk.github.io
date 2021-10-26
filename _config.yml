@@ -15,14 +15,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: twitter.com/mihirk_394
-    github:  github.com/mihirvk
+    twitter: https://twitter.com/mihirk_394
+    github:  https://github.com/mihirvk
     # devto: jekyll
     # dribbble: jekyll
-    facebook: facebook.com/mihir.kavishwar710
+    facebook: https://www.facebook.com/mihir.kavishwar710/
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: linkedin.com/in/mihir-kavishwar-862349188
+    linkedin: https://www.linkedin.com/in/mihir-kavishwar-862349188/
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
