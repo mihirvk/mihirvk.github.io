@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<img align="left" src="https://raw.githubusercontent.com/mihirvk/mihirvk.github.io/main/assets/images/Mihir_Kavishwar.jpg?token=ASIXBQHLA37B67CTD7HC5YLBQGF2A" alt="Mihir Kavishwar" style="height: 215px; width:215px; padding: 5px 20px 10px 0px;"/> 
+<img align="left" src="assets/images/Mihir_Kavishwar.jpg" alt="Mihir Kavishwar" style="height: 215px; width:215px; padding: 5px 20px 10px 0px;"/> 
 <font size="4">
 
 <p>
