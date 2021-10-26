@@ -1,9 +1,10 @@
 ---
-layout: page
+layout: default
 title: CV
 permalink: /cv/ 
 ---
-<iframe src="" width="100%" height="100%"></iframe>
+
+[CV](https://drive.google.com/file/d/1pMiN1xyMyV9UXPfaX-jo72ttvMhQbYMQ/view?usp=sharing) (last updated: July 2021)
 
 
 

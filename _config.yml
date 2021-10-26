@@ -1,9 +1,9 @@
 title: Mihir Kavishwar 
 author:
-  name: Mihir Kavishwar
+  name: 
   email: mihirk@iitb.ac.in
 description: > # this means to ignore newlines until "show_excerpts:"
-  Work in progress 
+  "We are all stories in the end, just make it a good one eh?" - The Doctor
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -15,14 +15,14 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: https://twitter.com/mihirk_394
-    github:  https://github.com/mihirvk
+    twitter: mihirk_394
+    github:  mihirvk
     # devto: jekyll
     # dribbble: jekyll
-    facebook: https://www.facebook.com/mihir.kavishwar710/
+    facebook: mihir.kavishwar710
     # flickr:   jekyll
     # instagram: jekyll
-    linkedin: https://www.linkedin.com/in/mihir-kavishwar-862349188/
+    linkedin: mihir-kavishwar-862349188
     # pinterest: jekyll
     # youtube: jekyll
     # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
