@@ -4,4 +4,12 @@ title: Projects
 permalink: /projects/
 ---
 
-Under construction.
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
+I'll add details of other projects very soon!

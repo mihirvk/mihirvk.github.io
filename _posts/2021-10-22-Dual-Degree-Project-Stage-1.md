@@ -1,7 +1,12 @@
 ---
 layout: post
 ---
-Under construction.
+The stage 1 review of my Dual Degree Project was completed recently. I had started this project in August 2021 at [aiCAS Lab](http://www.ee.iitb.ac.in/~zelerajesh/index.php/aicas-lab/). The report and presentation below summarise the progress made since then. 
+## Report:
+<object data="{{site.url}}/assets/pdfs/Mihir_DDP_Phase1_Report.pdf" width="800" height="800" type='application/pdf'></object>
+
+## Presentation:
+<object data="{{site.url}}/assets/pdfs/Mihir_DDP_Phase1_PPT.pdf" width="800" height="500" type='application/pdf'></object>
 
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
