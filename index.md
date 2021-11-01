@@ -10,7 +10,7 @@ layout: home
 
 <img align="left" src="assets/images/Mihir_Kavishwar.jpg" alt="Mihir Kavishwar" style="height: 215px; width:215px; padding: 5px 20px 10px 0px;"/> 
 
-Hello reader! My name is **Mihir Kavishwar**. I am a senior undergraduate in the [Electrical Engineering Department, IIT Bombay](https://www.ee.iitb.ac.in/web). I am pursuing a Dual Degree (BTech + MTech) focused in Microelectronics and VLSI Design.  
+Hello reader! My name is **Mihir Kavishwar**. I am a senior undergraduate in the [Electrical Engineering Department, IIT Bombay](https://www.ee.iitb.ac.in/web), pursuing a Dual Degree (BTech + MTech) focused in Microelectronics and VLSI Design.  
 
 My research interests include **Analog and Mixed-Signal Circuits for Edge AI**, **Energy-Efficient Hardware Accelerators** and **High-Speed Serial Links**. I am currently working with [Prof. Rajesh Zele](http://www.ee.iitb.ac.in/~zelerajesh/index.php) in **Advanced Integrated Circuits and System Lab (aiCAS)** at IIT Bombay. Through this webpage, I intend to showcase some of my past and on-going projects. If find any of this stuff exciting and would like to know more, feel free to shoot me an email! 
 
