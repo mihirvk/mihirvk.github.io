@@ -14,7 +14,7 @@ Hello reader! My name is **Mihir Kavishwar**. I am a senior undergraduate in the
 
 My research interests include **Analog and Mixed-Signal Circuits for Edge AI**, **Energy-Efficient Hardware Accelerators** and **High-Speed Serial Links**. Through this webpage, I intend to showcase some of my past and on-going projects. If find any of this stuff exciting and would like to know more, feel free to shoot me an email! 
 
-You can find the summary of my projects in my [CV]({{site.url}}/assets/pdfs/Mihir_CV.pdf). For more details, check out the [Projects]({{site.url}}/projects) section. 
+You can find the summary of my projects in my [CV]({{site.url}}/assets/pdfs/Mihir_Kavishwar_Academic_CV.pdf). For more details, check out the [Projects]({{site.url}}/projects) section. 
 
 ## Updates
 - **October 2021**: Completed my Dual Degree Project Stage 1 Presentations. Report and presentation slides can be found in the [Projects]({{site.url}}/projects) section.
