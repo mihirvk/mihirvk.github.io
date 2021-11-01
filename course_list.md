@@ -17,13 +17,14 @@ The following is a comprehensive list of all the courses that I completed at IIT
 - Physics of Transistors [EE620]
 - Neuromorphic Engineering [EE746]
 - High Speed Interconnects [EE800]
-- Sensors, Instrumentation and Measurements [EE617]
+- Sensors in Instrumentation [EE617]
 - Computer Aided Design [EE677, EE735]
 
 **Computer Science**
 
 - Data Structures and Algorithms [CS101, CS213]
 - Machine Learning [EE769]
+- Microprocessors [EE309]
 
 **Interdisciplinary Courses**
 
@@ -43,7 +44,6 @@ The following is a comprehensive list of all the courses that I completed at IIT
 - Communication Systems [EE308, EE328, EE340]
 - Electrical Machines and Power Electronics [EE222, EE234]
 - Signal Processing [EE338, EE352]
-- Microprocessors [EE309]
 
 **Foundational Mathematics**
 
@@ -68,6 +68,7 @@ The following is a comprehensive list of all the courses that I completed at IIT
 
 - Economics [HS101]
 - Psycology [HS303]
+- Environmental Studies [HS200, ES200]
 
 
 

@@ -1,9 +1,11 @@
 title: Mihir Kavishwar 
 author:
-  name: 
-  email: mihirk@iitb.ac.in
-description: > # this means to ignore newlines until "show_excerpts:"
-  "We are all stories in the end, just make it a good one eh?" - The Doctor
+  name: Mihir Kavishwar
+  email: mihirk@iitb.ac.in 
+  email2: mihir.kavishwar710@gmail.com
+description: Nitwit! Blubber! Oddment! Tweak!
+ 
+google_analytics: UA-NNNNNNNN-N
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
@@ -21,11 +23,11 @@ minima:
     # dribbble: jekyll
     facebook: mihir.kavishwar710
     # flickr:   jekyll
-    # instagram: jekyll
+    instagram: _mihir_k_
     linkedin: mihir-kavishwar-862349188
     # pinterest: jekyll
     # youtube: jekyll
-    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    youtube_channel: UCKSTVxK6gI4jdsp-aB0Jvkw
     # youtube_channel_name: CloudCannon
     # telegram: jekyll
     # googleplus: +jekyll
@@ -48,7 +50,7 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
+# header_pages:
 # - about.md
 
 # Build settings
