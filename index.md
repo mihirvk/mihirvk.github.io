@@ -10,14 +10,14 @@ layout: home
 
 <img align="left" src="assets/images/Mihir_Kavishwar.jpg" alt="Mihir Kavishwar" style="height: 215px; width:215px; padding: 5px 20px 10px 0px;"/> 
 
-Hello reader! My name is **Mihir Kavishwar**. I am a senior undergraduate in the [Electrical Engineering Department, IIT Bombay](https://www.ee.iitb.ac.in/web), pursuing a Dual Degree (BTech + MTech) focused in Microelectronics and VLSI Design.  
+Hello reader! My name is **Mihir Kavishwar**. I am a senior undergraduate in the [Electrical Engineering Department, IIT Bombay](https://www.ee.iitb.ac.in/web), pursuing a Dual Degree (BTech + MTech) with a specialization in Microelectronics and VLSI Design.  
 
 My research interests include **Analog and Mixed-Signal Circuits for Edge AI**, **Energy-Efficient Hardware Accelerators** and **High-Speed Serial Links**. I am currently working with [Prof. Rajesh Zele](http://www.ee.iitb.ac.in/~zelerajesh/index.php) in **Advanced Integrated Circuits and System Lab (aiCAS)** at IIT Bombay. Through this webpage, I intend to showcase some of my past and on-going projects. If find any of this stuff exciting and would like to know more, feel free to shoot me an email! 
 
-You can find the summary of my projects in my [CV]({{site.url}}/assets/pdfs/Mihir_Kavishwar_Academic_CV.pdf). For more details, check out the [Projects]({{site.url}}/projects) section. 
+You can find a summary of my projects in my [CV]({{site.url}}/assets/pdfs/Mihir_Kavishwar_Academic_CV.pdf). For more details, check out the [Projects]({{site.url}}/projects) section. 
 
 ## Updates
-- **October 2021**: Completed my Dual Degree Project Stage 1 Presentations. Report and presentation slides can be found in the [Projects]({{site.url}}/projects) section.
+- **October 2021**: Completed my Dual Degree Project Stage 1 Presentation. Report and presentation slides can be found in the [Projects]({{site.url}}/projects) section.
 - **July 2021**: Completed a summer internship at [Ceremorphic Inc.](https://ceremorphic.com/) and have been offered full-time employment in their Analog Design team.
 
 <!-- <p>
