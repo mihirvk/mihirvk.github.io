@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<img align="left" src="assets/images/Mihir_Kavishwar.jpg" alt="Mihir Kavishwar" style="height: 215px; width:215px; padding: 5px 20px 10px 0px;"/> 
+<img align="left" src="assets/images/Mihir_Kavishwar.jpg" alt="Mihir Kavishwar" style="height: 190px; width:190px; padding: 5px 20px 10px 0px;"/> 
 
 Hello reader! My name is **Mihir Kavishwar**. I am a senior undergraduate in the [Electrical Engineering Department, IIT Bombay](https://www.ee.iitb.ac.in/web), pursuing a Dual Degree (BTech + MTech) with a specialization in Microelectronics and VLSI Design.  
 
