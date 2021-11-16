@@ -4,19 +4,19 @@ title: Courses
 permalink: /course_list/
 ---
 
-The following is a comprehensive list of all the courses that I completed at IITB. Details of all the courses offered by EE department can be found [here](https://www.ee.iitb.ac.in/web/academics/courses).
+The following is a comprehensive list of all the courses that I have completed at IITB. Details of all the courses offered by the EE department can be found [here](https://www.ee.iitb.ac.in/web/academics/courses).
 
 **Microelectronics and VLSI**
 
 - Digital VLSI Design [EE671, EE705]
 - Analog CMOS VLSI Design [EE618]
-- Mixed Signal VLSI Design [EE719]
+- Mixed-Signal VLSI Design [EE719]
 - Radio Frequency VLSI Design [EE619] (will complete by April 2022)
-- Delta Sigma Data Converters [EE699]
+- Delta-Sigma Data Converters [EE699]
 - VLSI Technology [EE669]
 - Physics of Transistors [EE620]
 - Neuromorphic Engineering [EE746]
-- High Speed Interconnects [EE800]
+- High-Speed Interconnects [EE800]
 - Sensors in Instrumentation [EE617]
 - Computer Aided Design [EE677, EE735]
 
