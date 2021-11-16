@@ -23,5 +23,5 @@ permalink: /projects/
 
 ## Miscellaneous 
 - **DD-Robocon 2019 Competition**: Led the Electrical Subdivision of [Team STRIDE](https://stride.github.io/) and secured All India Rank 9 in 1st stage of the competition [[Report]]({{site.url}}/assets/pdfs/Robocon_IITB.pdf)
-- **Institute Technical Summer Project**: Built a real-time handwriting recognition pen [[Report]]({{site.url}}/assets/pdfs/itsp_docs.pdf)
+- **Institute Technical Summer Project**: Built a real-time handwriting recognition pen [[Report]]({{site.url}}/assets/pdfs/itsp_docs.pdf) [[Demonstration]](https://www.youtube.com/watch?v=8_qhTHlahuc)
 <!-- I'll add details of other projects very soon! -->
