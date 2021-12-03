@@ -8,17 +8,17 @@ The following is a comprehensive list of all the courses that I have completed a
 
 **Microelectronics and VLSI**
 
-- Digital VLSI Design [EE671, EE705]
 - Analog CMOS VLSI Design [EE618]
+- Digital VLSI Design [EE671, EE705]
 - Mixed-Signal VLSI Design [EE719]
-- Radio Frequency VLSI Design [EE619] (will complete by April 2022)
 - Delta-Sigma Data Converters [EE699]
-- VLSI Technology [EE669]
-- Physics of Transistors [EE620]
 - Neuromorphic Engineering [EE746]
 - High-Speed Interconnects [EE800]
 - Sensors in Instrumentation [EE617]
+- VLSI Technology [EE669]
+- Physics of Transistors [EE620]
 - Computer Aided Design [EE677, EE735]
+- Radio Frequency VLSI Design [EE619] (will complete by April 2022)
 
 **Computer Science**
 
