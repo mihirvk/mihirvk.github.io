@@ -8,7 +8,7 @@ The following is a comprehensive list of all the courses that I have completed a
 
 **Microelectronics and VLSI**
 
-- Analog CMOS VLSI Design [EE618]
+- CMOS Analog VLSI Design [EE618]
 - Digital VLSI Design [EE671, EE705]
 - Mixed-Signal VLSI Design [EE719]
 - Delta-Sigma Data Converters [EE699]
