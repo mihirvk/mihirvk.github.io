@@ -17,7 +17,7 @@ My research interests include **Analog and Mixed-Signal Circuits for Edge AI**, 
 You can find a summary of my projects in my [CV]({{site.url}}/assets/pdfs/Mihir_Kavishwar_Academic_CV.pdf). For more details, check out the [Projects]({{site.url}}/projects) section. 
 
 ## Updates
-- **October 2021**: Completed my Dual Degree Project Stage 1 Presentation. Report and presentation slides can be found in the [Projects]({{site.url}}/projects) section.
+- **October 2021**: Completed my Dual Degree Project (Master's Thesis) Stage 1 Presentation. Report and presentation slides can be found in the [Projects]({{site.url}}/projects) section.
 - **July 2021**: Completed a summer internship at [Ceremorphic India Pvt. Ltd.](https://ceremorphic.com/) and have been offered full-time employment in their Analog Design team.
 
 <!-- <p>
