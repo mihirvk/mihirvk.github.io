@@ -6,11 +6,11 @@ permalink: /projects/
 
 
 ## Research Projects
-- **Dual Degree Project Stage 1**: Analog Acoustic Feature Extraction for Always-On Voice Activity Detection\
+- **Master's Thesis Stage 1**: Analog Acoustic Feature Extraction for Always-On Voice Activity Detection\
 [[Report]]({{site.url}}/assets/pdfs/Mihir_DDP_Phase1_Report.pdf) [[Presentation]]({{site.url}}/assets/pdfs/Mihir_DDP_Phase1_PPT.pdf) [[Demonstration]](https://www.youtube.com/watch?v=OAUYkW3h3Hs) 
 - **R&D Project**: Current Copier based Mixed-Signal Multiplier\
 [[Presentation]]({{site.url}}/assets/pdfs/EE691_RnD_Project_PPT.pdf)
-- **Supervised Research Exposition**: Analog and Mixed-Signal Circuits for Machine Learning Applications\
+- **Research Seminar**: Analog and Mixed-Signal Circuits for Machine Learning Applications\
 [[Report]]({{site.url}}/assets/pdfs/Supervised_Research_Exposition.pdf) [[Presentation]]({{site.url}}/assets/pdfs/SRE_Presentation.pdf)
 
 
