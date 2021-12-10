@@ -14,7 +14,7 @@ This page contains a list of instructive textbooks, video lectures, articles, an
 - [Analog Integrated Circuit Design by Kenneth Martin, Chan Carusone and David Johns](https://www.amazon.in/Analog-Integrated-Circuit-Design-2ed/dp/8126543930)
 - [Semiconductor Device Fundamentals by Robert F. Pierret](https://www.amazon.in/Semiconductor-Device-Fundamentals-1e-PIERRET/dp/8177589776)
 - [Microelectronic Circuits: Theory And Applications by Adel S. Sedra and Kenneth C. Smith](https://www.amazon.in/Microelectronic-Circuits-Theory-Applications-Seventh/dp/0199476292)
-- [Analogue IC Design: The current-mode approach by C. Toumazou, F.J. Lidgey and D.G. Haigh](https://www.amazon.in/Analogue-IC-Design-current-mode-Materials/dp/0863412971)
+- [Analogue IC Design: The Current-Mode Approach by C. Toumazou, F.J. Lidgey and D.G. Haigh](https://www.amazon.in/Analogue-IC-Design-current-mode-Materials/dp/0863412971)
 - [CMOS VLSI design: A Circuits and Systems Perspective by David Money Harris and Neil Weste](https://www.amazon.in/CMOS-VLSI-Design-4e-perspective/dp/9332542880)
 - [Understanding Delta-Sigma Data Converters by Shanthi Pavan, Richard Schreier and Gabor C. Temes](https://www.amazon.in/Understanding-Delta-Sigma-Converters-Microelectronic-Systems/dp/1119258278)
 - [Engineering Electromagnetics by Nathan Ida](https://www.amazon.in/Engineering-Electromagnetics-Nathan-Ida/dp/0387201564)
