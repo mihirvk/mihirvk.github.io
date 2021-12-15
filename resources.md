@@ -30,7 +30,7 @@ This page contains a list of instructive textbooks, video lectures, articles, an
 6. [Understanding Delta-Sigma Data Converters by Shanthi Pavan, Richard Schreier and Gabor C. Temes](https://www.amazon.in/Understanding-Delta-Sigma-Converters-Microelectronic-Systems/dp/1119258278)
 7. [Engineering Electromagnetics by Nathan Ida](https://www.amazon.in/Engineering-Electromagnetics-Nathan-Ida/dp/0387201564)
 8. [Advanced Signal Integrity for High-Speed Digital Designs by Stephen H. Hall and Howard L. Heck](https://www.amazon.in/Advanced-Integrity-High-Speed-Digital-Designs/dp/0470192356)
-9. [Computer Organization and Design: The Hardware/Software Interface by D. A. Patterson, J. L. Hennessy](https://www.amazon.in/Computer-Organization-Design-Hardware-Interface/dp/9351073378)
+9. [Computer Organization and Design: The Hardware/Software Interface by D. Patterson, J. Hennessy](https://www.amazon.in/Computer-Organization-Design-Hardware-Interface/dp/9351073378)
 10. [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.amazon.in/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 11. [Probability, Random Variables and Stochastic Processes by A. Papoulis and S. Unnikrishna Pillai](https://www.amazon.in/Probability-Random-Variables-Stochastic-Processes/dp/0070486581)
 12. [Modern Control Engineering by K. Ogata](https://www.amazon.in/Modern-Control-Engineering-Ogata/dp/9332550166)
