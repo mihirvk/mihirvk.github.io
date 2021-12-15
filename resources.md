@@ -30,14 +30,14 @@ This page contains a list of instructive textbooks, video lectures, articles, an
 6. [Understanding Delta-Sigma Data Converters by Shanthi Pavan, Richard Schreier and Gabor C. Temes](https://www.amazon.in/Understanding-Delta-Sigma-Converters-Microelectronic-Systems/dp/1119258278)
 7. [Engineering Electromagnetics by Nathan Ida](https://www.amazon.in/Engineering-Electromagnetics-Nathan-Ida/dp/0387201564)
 8. [Advanced Signal Integrity for High-Speed Digital Designs by Stephen H. Hall and Howard L. Heck](https://www.amazon.in/Advanced-Integrity-High-Speed-Digital-Designs/dp/0470192356)
-9. [Computer Organization and Design: The Hardware/Software Interface by D. A. Patterson and J. L. Hennessy](https://www.amazon.in/Computer-Organization-Design-Hardware-Interface/dp/9351073378)
+9. [Computer Organization and Design: The Hardware/Software Interface by D. A. Patterson, J. L. Hennessy](https://www.amazon.in/Computer-Organization-Design-Hardware-Interface/dp/9351073378)
 10. [Pattern Recognition and Machine Learning by Christopher M. Bishop](https://www.amazon.in/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738)
 11. [Probability, Random Variables and Stochastic Processes by A. Papoulis and S. Unnikrishna Pillai](https://www.amazon.in/Probability-Random-Variables-Stochastic-Processes/dp/0070486581)
 12. [Modern Control Engineering by K. Ogata](https://www.amazon.in/Modern-Control-Engineering-Ogata/dp/9332550166)
 13. [Signals And Systems by Alan V. Oppenheim](https://www.amazon.in/Signals-Systems-Willsky-Hamid-Oppenheim/dp/B07H48R9HV/)
 14. [Fundamentals of Computational Neuroscience by Thomas Trappenberg](https://www.amazon.in/Fundamentals-Computational-Neuroscience-Thomas-Trappenberg-ebook/dp/B00F1D7K90)
 15. [Analog VLSI and Neural Systems by Carver Mead](https://www.amazon.com/Analog-VLSI-Neural-Systems-Carver/dp/0201059924)
-16. [Deep In-memory Architectures for Machine Learning by M. Kang, S. Gonugondla and N. R. Shanbhag](https://www.amazon.in/Deep-memory-Architectures-Machine-Learning-ebook/dp/B084DLNY1S)
+16. [Deep In-memory Architectures for Machine Learning by M. Kang, S. Gonugondla, N. R. Shanbhag](https://www.amazon.in/Deep-memory-Architectures-Machine-Learning-ebook/dp/B084DLNY1S)
 
 ### Free online lecture series
 1. [EE204 Analog Circuits - Prof. Rajesh Zele, IIT Bombay](https://youtube.com/playlist?list=PLzRH_4upozz2Uu6LM7NjCOYWGVz4SsJtj) 
