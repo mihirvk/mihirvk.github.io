@@ -6,7 +6,7 @@ permalink: /resources/
 
 **Work in progress. More content would be added soon.**
 
-This page contains a list of instructive textbooks, video lectures, articles, and research publications relevant to my research interests. These resources are NOT my original contributions. I plan to frequently update this page to include the latest advancements in AI / ML circuits. While I primarily created this compiled list of resources for my use, I hope it would also be helpful to anyone with similar research interests.    
+This page contains a list of instructive textbooks, video lectures, articles, and research publications relevant to my research interests. **These resources are NOT my original contributions**. I plan to frequently update this page to include the latest advancements in AI / ML circuits. While I primarily created this compiled list of resources for my use, I hope it would also be helpful to anyone with similar research interests.    
 
 - [Textbooks](#textbooks)
 - [Free online lecture series](#free-online-lecture-series)
