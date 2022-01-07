@@ -17,6 +17,7 @@ My research interests include **Analog and Mixed-Signal Circuits for Edge AI**, 
 You can find a summary of my projects in my [CV]({{site.url}}/assets/pdfs/Mihir_Kavishwar_Academic_CV.pdf). For more details, check out the [Projects]({{site.url}}/projects) section. I am working on compiling a list of good resources relevant to my research, the same can be found in the [Resources]({{site.url}}/resources) section.
 
 ## Updates
+- **December 2021**: Co-authored articles on [Global  Chip Shortage](https://www.ee.iitb.ac.in/~bh/pages/articles/Global-Chip-Shortage.html) and [IITB EE PhD Program](https://www.ee.iitb.ac.in/~bh/pages/articles/Demystifying-the-PhD-Program.html) for [BackgroundHum](https://www.ee.iitb.ac.in/~bh/index.html), the official student newsletter of the Department of Electrical Engineering, IIT Bombay.
 - **October 2021**: Completed my Dual Degree Project (Master's Thesis) Stage 1 Presentation. Report and presentation slides can be found in the [Projects]({{site.url}}/projects) section.
 - **July 2021**: Completed a summer internship at [Ceremorphic India Pvt. Ltd.](https://ceremorphic.com/) and have been offered full-time employment in their Analog Design team.
 
