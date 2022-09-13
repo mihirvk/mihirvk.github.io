@@ -10,16 +10,18 @@ layout: home
 
 <img align="left" src="assets/images/Mihir_Kavishwar.jpg" alt="Mihir Kavishwar" style="height: 190px; width:190px; padding: 5px 20px 10px 0px;"/> 
 
-Hello reader! My name is **Mihir Kavishwar**. I am a senior undergraduate in the [Electrical Engineering Department, IIT Bombay](https://www.ee.iitb.ac.in/web), pursuing a Dual Degree (BTech + MTech) with a specialization in Microelectronics and VLSI Design.  
-
-My research interests include **Analog and Mixed-Signal Circuits for Edge AI**, **Energy-Efficient Hardware Accelerators** and **High-Speed Serial Links**. I am currently working with [Prof. Rajesh Zele](http://www.ee.iitb.ac.in/~zelerajesh/index.php) in **Advanced Integrated Circuits and System Lab (aiCAS)** at IIT Bombay. Through this webpage, I intend to showcase some of my past and on-going projects. If find any of this stuff exciting and would like to know more, feel free to shoot me an email! 
+Hello reader! My name is **Mihir Kavishwar**. I am a first year PhD student in the [Electrical and Computer Engineering Department, Princeton University](https://ece.princeton.edu/). I graduated from [Electrical Engineering Department, IIT Bombay](https://www.ee.iitb.ac.in/web) in 2022 with a Dual Degree (BTech + MTech). My research is focused on **analog and mixed-signal integrated circuit design for edge AI**. During my time at IIT Bombay I worked with [Prof. Rajesh Zele](http://www.ee.iitb.ac.in/~zelerajesh/index.php) in **Advanced Integrated Circuits and System Lab (aiCAS)**. Through this webpage, I intend to showcase some of my past and on-going projects. If find any of this stuff exciting and would like to know more, feel free to shoot me an email! 
 
 You can find a summary of my projects in my [CV]({{site.url}}/assets/pdfs/Mihir_Kavishwar_Academic_CV.pdf). For more details, check out the [Projects]({{site.url}}/projects) section. I am working on compiling a list of good resources relevant to my research, the same can be found in the [Resources]({{site.url}}/resources) section.
 
 ## Updates
+- **September 2022**: Paper titled **Analog Acoustic Feature Extraction and Delta-Sigma Modulation based Neural Network Classification for Voice Activity Detection** accepted for presentation at [IEEE India Council International Conference](https://www.indicon2022.org/) to be held in Kochi, India from November 24-26, 2022.
+- **September 2022**: Paper titled **Analog/Mixed-Signal Classification for Voice Activity Detection** accepted for presentation at [IEEE International Conference on Electronics Circuits and Systems](https://2022.ieee-icecs.org/) to be held in Glasgow, UK from October 24-26, 2022.  
+- **September 2022**: Started working as a full time PhD student with [Gordan Wu Fellowship](https://gradschool.princeton.edu/financial-support/fellowships/princeton-fellowships/gordon-wu-fellowship) at [Electrical and Computer Engineering Department, Princeton University](https://ece.princeton.edu/). 
+- **August 2022**: Graduated from IIT Bombay with BTech and MTech in Electrical Engineering and Minor in Systems and Control Engineering. Awarded the Undergraduate Research Award (URA03)!
 - **January 2022**: Started working as a Teaching Assistant (TA) for [EE719 Mixed-Signal VLSI Design](https://www.ee.iitb.ac.in/web/academics/courses/EE719).
 - **December 2021**: Co-authored articles on [Global  Chip Shortage](https://www.ee.iitb.ac.in/~bh/pages/articles/Global-Chip-Shortage.html) and [IITB EE PhD Program](https://www.ee.iitb.ac.in/~bh/pages/articles/Demystifying-the-PhD-Program.html) for [BackgroundHum](https://www.ee.iitb.ac.in/~bh/index.html), the official student newsletter of the Department of Electrical Engineering, IIT Bombay.
-- **October 2021**: Completed my Dual Degree Project (Master's Thesis) Stage 1 Presentation. Report and presentation slides can be found in the [Projects]({{site.url}}/projects) section.
+<!-- - **October 2021**: Completed my Dual Degree Project (Master's Thesis) Stage 1 Presentation. Report and presentation slides can be found in the [Projects]({{site.url}}/projects) section. -->
 - **July 2021**: Completed a summer internship at [Ceremorphic India Pvt. Ltd.](https://ceremorphic.com/) and have been offered full-time employment in their Analog Design team.
 
 <!-- <p>
