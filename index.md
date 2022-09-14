@@ -23,9 +23,8 @@ Through this webpage, I intend to showcase some of my past and on-going projects
 - **August 2022**: Graduated from IIT Bombay with BTech and MTech in Electrical Engineering and Minor in Systems and Control Engineering. Awarded the Undergraduate Research Award (URA03)!
 - **January 2022**: Started working as a Teaching Assistant (TA) for [EE719 Mixed-Signal VLSI Design](https://www.ee.iitb.ac.in/web/academics/courses/EE719).
 - **December 2021**: Co-authored articles on [Global  Chip Shortage](https://www.ee.iitb.ac.in/~bh/pages/articles/Global-Chip-Shortage.html) and [IITB EE PhD Program](https://www.ee.iitb.ac.in/~bh/pages/articles/Demystifying-the-PhD-Program.html) for [BackgroundHum](https://www.ee.iitb.ac.in/~bh/index.html), the official student newsletter of the Department of Electrical Engineering, IIT Bombay.
-<!-- - **October 2021**: Completed my Dual Degree Project (Master's Thesis) Stage 1 Presentation. Report and presentation slides can be found in the [Projects]({{site.url}}/projects) section. -->
 - **July 2021**: Completed a summer internship at [Ceremorphic India Pvt. Ltd.](https://ceremorphic.com/) and have been offered full-time employment in their Analog Design team.
-
+<!-- - **October 2021**: Completed my Dual Degree Project (Master's Thesis) Stage 1 Presentation. Report and presentation slides can be found in the [Projects]({{site.url}}/projects) section. -->
 <!-- <p>
 VLSI stands for Very Large Scale Integration, which refers to the process of integrating billions of transistors in an elegant fashion on to a tiny microchip. From mobile phones and laptops to automobiles and spacecrafts, almost every modern technology is enabled by these semiconductor chips. My research interest lies in a specific area of VLSI known as <b>Analog and Mixed-Signal VLSI Design</b>. I am especially fascinated by applications of Analog and Mixed-Signal circuits in resource constrained Edge devices, Machine Learning accelerators and Neuromorphic hardware. 
 </p> -->
