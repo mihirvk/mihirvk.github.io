@@ -14,7 +14,7 @@ Hello reader! My name is **Mihir Kavishwar**. I am a first year PhD student in t
 
 I graduated from [Electrical Engineering Department, IIT Bombay](https://www.ee.iitb.ac.in/web) in August 2022 with BTech and MTech degrees. During my time at IIT Bombay, I worked with [Prof. Rajesh Zele](http://www.ee.iitb.ac.in/~zelerajesh/index.php) in **Advanced Integrated Circuits and System Lab (aiCAS)**. 
 
-Through this webpage, I intend to showcase some of my past and on-going projects. If find any of this stuff exciting and would like to know more, feel free to shoot me an email! You can find a summary of my projects in my [CV]({{site.url}}/assets/pdfs/Mihir_Kavishwar_Academic_CV.pdf). For more details, check out the [Projects]({{site.url}}/projects) section. I am working on compiling a list of good resources relevant to my research, the same can be found in the [Resources]({{site.url}}/resources) section.
+Through this webpage, I intend to showcase some of my past and on-going projects. If you find any of this stuff exciting and would like to know more, feel free to shoot me an email! You can find a summary of my projects in my [CV]({{site.url}}/assets/pdfs/Mihir_Kavishwar_Academic_CV.pdf). For more details, check out the [Projects]({{site.url}}/projects) section. I am working on compiling a list of good resources relevant to my research, the same can be found in the [Resources]({{site.url}}/resources) section.
 
 ## Updates
 - **September 2022**: Paper titled _Analog Acoustic Feature Extraction and Delta-Sigma Modulation based Neural Network Classification for Voice Activity Detection_ accepted for presentation at [IEEE India Council International Conference](https://www.indicon2022.org/) to be held in Kochi, India from November 24-26, 2022.
