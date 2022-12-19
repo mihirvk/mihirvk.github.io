@@ -8,7 +8,7 @@
 layout: home
 ---
 
-<img align="left" src="assets/images/Mihir_Kavishwar.jpg" alt="Mihir Kavishwar" style="height: 190px; width:190px; padding: 5px 20px 10px 0px;"/> 
+<img align="left" src="assets/images/IMG_0771.jpg" alt="Mihir Kavishwar" style="height: 190px; width:190px; padding: 5px 20px 10px 0px;"/> 
 
 Hello reader! My name is **Mihir Kavishwar**. I am a first year PhD student in the [Electrical and Computer Engineering Department, Princeton University](https://ece.princeton.edu/). My research is focused on **analog and mixed-signal integrated circuit design for edge AI applications**.
 
