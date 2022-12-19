@@ -13,6 +13,9 @@ permalink: /projects/
 - **Research Seminar**: Analog and Mixed-Signal Circuits for Machine Learning Applications\
 [[Report]]({{site.url}}/assets/pdfs/Supervised_Research_Exposition.pdf) [[Presentation]]({{site.url}}/assets/pdfs/SRE_Presentation.pdf) -->
 
+## Dual Degree Project Project
+- Analog Acoustic Feature Extraction and Mixed-Signal / Digital Classification for Voice Activity Detection\
+[[Report]]({{site.url}}/assets/pdfs/Mihir_DDP_Final_Report.pdf)
 
 ## Key Course Projects
 - **Neuromorphic Engineering**: FeRAM based Resistive Processing Unit for Deep Neural Network Training and Inference\
