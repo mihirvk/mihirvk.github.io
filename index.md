@@ -12,7 +12,7 @@ layout: home
 
 Hello reader! My name is **Mihir Kavishwar**. I am a first year PhD student in the [Electrical and Computer Engineering Department, Princeton University](https://ece.princeton.edu/). My research interests include analog/mixed-signal integrated circuit design and machine learning.
 
-I graduated from [Electrical Engineering Department, IIT Bombay](https://www.ee.iitb.ac.in/web) in August 2022 with BTech and MTech degrees. During my time at IIT Bombay, I worked with [Prof. Rajesh Zele](http://www.ee.iitb.ac.in/~zelerajesh/index.php) in **Advanced Integrated Circuits and System Lab (aiCAS)**. 
+I graduated from [Electrical Engineering Department, IIT Bombay](https://www.ee.iitb.ac.in/web) in August 2022 with BTech and MTech degrees. During my time at IIT Bombay, I worked with [Prof. Rajesh Zele](http://www.ee.iitb.ac.in/~zelerajesh/index.php) in Advanced Integrated Circuits and System Lab (aiCAS). 
 
 Through this webpage, I intend to showcase some of my past and on-going projects. If you find any of this stuff exciting and would like to know more, feel free to shoot me an email! You can find a summary of my projects in my [CV]({{site.url}}/assets/pdfs/Mihir_Kavishwar_Academic_CV.pdf). For more details, check out the [Projects]({{site.url}}/projects) section. I am working on compiling a list of good resources relevant to my research, the same can be found in the [Resources]({{site.url}}/resources) section.
 
