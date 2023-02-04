@@ -19,7 +19,7 @@ Through this webpage, I intend to showcase some of my past and on-going projects
 ## Updates
 - **September 2022**: 
   - Started working as a PhD student at [Electrical and Computer Engineering Department, Princeton University](https://ece.princeton.edu/). 
-  - Paper titled _Analog/Mixed-Signal Classification for Voice Activity Detection_ accepted for lecture presentation at [IEEE International Conference on Electronics Circuits and Systems](https://2022.ieee-icecs.org/).  
+  - Paper titled [_Analog/Mixed-Signal Classification for Voice Activity Detection_](https://ieeexplore.ieee.org/abstract/document/9971057) accepted for lecture presentation at [IEEE International Conference on Electronics Circuits and Systems](https://2022.ieee-icecs.org/).  
   - Paper titled _Analog Acoustic Feature Extraction and Delta-Sigma Modulation based Neural Network Classification for Voice Activity Detection_ accepted for lecture presentation at [IEEE India Council International Conference](https://www.indicon2022.org/).
 - **August 2022**: Graduated from IIT Bombay with BTech and MTech in Electrical Engineering and Minor in Systems and Control Engineering. Awarded the Undergraduate Research Award (URA03)!
 - **January 2022**: Started working as a Teaching Assistant (TA) for [EE719 Mixed-Signal VLSI Design](https://www.ee.iitb.ac.in/web/academics/courses/EE719).
