@@ -4,7 +4,16 @@ title: Courses
 permalink: /course_list/
 ---
 
-The following is a comprehensive list of all the courses that I have completed at IITB. Details of all the courses offered by the EE department can be found [here](https://www.ee.iitb.ac.in/web/academics/courses).
+## Princeton University
+
+- Design of VLSI Systems [ECE562]
+- Machine Learning and Pattern Recognition [ECE535]
+- Photonics and Lightwave Communications [ECE558]
+- Wireless and High Speed Integrated Circuits and Systems [ECE582]
+- Computer Architecture [ECE575] (will complete by May '23)
+- Systems and Machine Learning [COS598D] (will complete by May '23)
+
+## IIT Bombay
 
 **Microelectronics and VLSI**
 
@@ -12,13 +21,14 @@ The following is a comprehensive list of all the courses that I have completed a
 - Digital VLSI Design [EE671, EE705]
 - Mixed-Signal VLSI Design [EE719]
 - Delta-Sigma Data Converters [EE699]
+- Radio Frequency VLSI Design [EE619]
 - Neuromorphic Engineering [EE746]
 - High-Speed Interconnects [EE800]
 - Sensors in Instrumentation [EE617]
 - VLSI Technology [EE669]
 - Physics of Transistors [EE620]
 - Computer Aided Design [EE677, EE735]
-- Radio Frequency VLSI Design [EE619] (will complete by April 2022)
+
 
 **Computer Science**
 
