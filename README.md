@@ -1,2 +1,2 @@
 # mihirvk.github.io
-Personal Website
+Personal Website made using jekyll minima theme
