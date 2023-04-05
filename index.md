@@ -8,11 +8,9 @@
 layout: home
 ---
 
-<img align="left" src="assets/images/IMG_0771.jpg" alt="Mihir Kavishwar" style="height: 140px; width:140px; padding: 5px 20px 10px 0px;"/> 
+<!-- <img align="left" src="assets/images/IMG_0771.jpg" alt="Mihir Kavishwar" style="height: 140px; width:140px; padding: 5px 20px 10px 0px;"/>  -->
 
-Hello reader! I am a first year PhD student in the [Electrical and Computer Engineering Department, Princeton University](https://ece.princeton.edu/). I periodically update this website with information about my projects. 
-
-Through this webpage, I intend to showcase some of my past and on-going projects. If you find any of this stuff exciting and would like to know more, feel free to shoot me an email! You can find a summary of my projects in my [CV]({{site.url}}/assets/pdfs/Mihir_Kavishwar_Academic_CV.pdf). For more details, check out the [Projects]({{site.url}}/projects) section.
+Hello reader! I am a first year PhD student in the [Electrical and Computer Engineering Department, Princeton University](https://ece.princeton.edu/). Through this webpage, I intend to showcase some of my past and on-going projects. If you find any of this stuff exciting and would like to know more, feel free to shoot me an email! You can find a summary of my projects in my [CV]({{site.url}}/assets/pdfs/Mihir_Kavishwar_Academic_CV.pdf). For more details, check out the [Projects]({{site.url}}/projects) section.
 
 <!-- My research interests include integrated circuits and systems, wireline communication, computer architecture and machine learning. -->
 <!-- 
