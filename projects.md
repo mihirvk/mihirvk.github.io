@@ -13,11 +13,15 @@ permalink: /projects/
 - **Research Seminar**: Analog and Mixed-Signal Circuits for Machine Learning Applications\
 [[Report]]({{site.url}}/assets/pdfs/Supervised_Research_Exposition.pdf) [[Presentation]]({{site.url}}/assets/pdfs/SRE_Presentation.pdf) -->
 
-## Dual Degree Project
+## Princeton Course Projects
+- **Photonics and Lightwave Communications**: Photonic Testbed for E-O-E Neuron Characterization\
+[[Presentation]]({{site.url}}/assets/pdfs/ECE558_Project_Edited.pdf)
+
+## IITB Dual Degree Project
 - Analog Acoustic Feature Extraction and Mixed-Signal / Digital Classification for Voice Activity Detection\
 [[Report]]({{site.url}}/assets/pdfs/Mihir_DDP_Final_Report.pdf)
 
-## Key Course Projects
+## IITB Course Projects
 - **Neuromorphic Engineering**: FeRAM based Resistive Processing Unit for Deep Neural Network Training and Inference\
 [[Report]]({{site.url}}/assets/pdfs/EE746_Project_Stage_2.pdf) [[Presentation]]({{site.url}}/assets/pdfs/EE746_PPT.pdf)
 - **Mixed-Signal VLSI Design**: Current Steering Digital to Analog Converter Design\
