@@ -14,8 +14,12 @@ permalink: /projects/
 [[Report]]({{site.url}}/assets/pdfs/Supervised_Research_Exposition.pdf) [[Presentation]]({{site.url}}/assets/pdfs/SRE_Presentation.pdf) -->
 
 ## Princeton Course Projects
+- **Computer Architecture**:
+  - RISCV Vector Processor [[Report]]({{site.url}}/assets/pdfs/ECE575_PROJECT.pdf)
+  - RISCV Out-of-Order Processor with Reorder Buffer [[Report]]({{site.url}}/assets/pdfs/ECE575_LAB4.pdf)
 - **Photonics and Lightwave Communications**: Photonic Testbed for E-O-E Neuron Characterization\
 [[Presentation]]({{site.url}}/assets/pdfs/ECE558_Project_Edited.pdf)
+
 
 ## IITB Dual Degree Project
 - Analog Acoustic Feature Extraction and Mixed-Signal / Digital Classification for Voice Activity Detection\
