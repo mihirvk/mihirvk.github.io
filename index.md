@@ -22,6 +22,8 @@ Through this webpage, I intend to showcase some of my past and on-going projects
 
 
 ## Updates
+- **May 2023**:
+  - Transferring from Princeton University to University of Illinois Urbana-Champaign (UIUC) [[Full Story]({{site.url}}/blog_post)] 
 - **September 2022**: 
   - Started working as a PhD student at Electrical and Computer Engineering Department, Princeton University. 
   - Paper titled [_Analog/Mixed-Signal Classification for Voice Activity Detection_](https://ieeexplore.ieee.org/abstract/document/9971057) accepted for lecture presentation at IEEE International Conference on Electronics Circuits and Systems.  
