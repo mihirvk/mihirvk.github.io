@@ -65,20 +65,20 @@ Since I have traversed a path that most graduate students don’t have to, I als
 
 #### On transparency <a name="transparency"></a>
 
-This section is specifically meant for future Princeton ECE graduate school applicants.
+**This section is specifically meant for future Princeton ECE graduate school applicants.**
 
 I’ll start off by saying that the graduate student representatives have already raised the issue of advisor matching with the concerned authorities. The department hosts a biannual town hall meeting where graduate students can openly discuss their concerns with the Director of Graduate Studies and the Head of the Department, in the presence of graduate student representatives. I participated in the Spring town hall which was hosted just 2 weeks ago. There was a long discussion about advisor matching - not focused on my particular case but the process in general. Some recommendations were proposed to improve the existing process and further discussions were promised. I hope the authorities can help prevent something like my case from happening again in the future either by making better admission decisions or implementing some of the proposed improvements. 
 
 Having said that, there is no guarantee that a student won’t land in a similar situation as I did. **During admissions, the department’s incentive is to convince all offer recipients to accept their offers, which is why they are inclined to only focus on the pros and gloss over the cons of this process.** It’s important that you understand both and are willing to make the necessary tradeoff based on your goals before choosing to join Princeton.
 
-##### Pros 
+##### Pros: 
 1. Students’ interests do often change by the end of first semester at Princeton. It’s exactly one year after submitting their graduate school applications, which is a lot of time to learn about several new topics and research directions. Several students have successfully completed their PhDs in research areas very different from what they had mentioned in their SoPs.
 2. Students get a chance to learn more about the inner workings of a group by attending group meetings and talking to current students in that group. This can be an important decision making factor before committing to a group.
 3. Students are allowed to find an advisor from other departments while still being enrolled in the ECE department. This would be almost impossible to facilitate if there was a more rigid process.
 4. In case a student can’t find an advisor match by the end of spring semester, the department can still support the student for an additional semester using teaching assistantship funding. 
 5. Research is an unpredictable journey and one always ends up diving into areas they had never envisioned working in before. Some students have successfully switched fields in the past when they didn’t get to work with their preferred advisor and ended up being happy.
 
-##### Cons
+##### Cons:
 1. If the admission yield rate is high or if a particular research field suddenly becomes very popular, there would inevitably be more students than there are open research positions in that field. In that case some students are most certainly not going to get to work with their preferred advisor, irrespective of any discussions they had during the admissions cycle. 
 2. Historical data about the fraction of students who got their first/second/third/none preferences may not be an accurate predictor for the future. Moreover, these numbers which might look harmless on paper don’t account for any mental stress that a significant number of students might have had to endure.
 3. Students may have to compete for research positions AFTER they have been admitted to Princeton. This can not only be extremely stressful but can also lead to unhealthy relations among peers. Having a close-knit community is one of the core strengths of Princeton graduate school and making students compete for research positions AFTER they are already in Princeton seriously undermines it.
@@ -86,7 +86,7 @@ Having said that, there is no guarantee that a student won’t land in a similar
 5. Princeton has a much smaller ECE department compared to a lot of other universities. There aren’t many professors who work in similar research fields (with the exception of quantum: sometimes Princeton ECE feels more like a Physics department lol). If you can’t find an advisor in your research field of interest, your only option is to switch fields (or quit :p). 
 6. Contrary to conventional wisdom about characteristics of a “good” SoP, there is an implicit expectation from first year students to not be committed to their research interests if they don’t get to work with their preferred advisor. One may feel pressured into switching fields against their wishes, which may lead to unfavorable long term outcomes.
 
-##### Unsolicited advice
+##### Unsolicited advice:
 1. If you care about the Princeton brand more than working with any specific professor / working in a specific field for your PhD, go for it. There is a lot of interesting, state of the art research happening all around at Princeton. If you are proactive during your first semester, you’ll almost certainly find some professor who is willing to take you in.
 2. If you care about being given the flexibility to change your research field completely from what you had mentioned in your SoP, there is probably no better place than Princeton who’ll give you this flexibility. Most other top universities make it difficult to switch advisors, let alone the entire research field. Here you can apply to work in laser spectroscopy and then switch to natural language processing if you find an advisor willing to take you in, there will be no judgment.
 3. If there are only one or two professors you are really interested in working with, either find more professors or don’t join Princeton. I was given similar advice by my faculty advisor from IITB but I had concluded that the probability of a failed advisor match was “almost zero” based on my open house conversations and felt that Princeton was worth the risk. I’m now better informed, especially after the town hall, and would update my estimate to “low but not insignificant”. My estimate for the process being stressful for you is “very high”. 	
