@@ -63,7 +63,7 @@ This section is specifically meant for future Princeton ECE graduate school appl
 
 I’ll start off by saying that the graduate student representatives have already raised the issue of advisor matching with the concerned authorities. The department hosts a biannual town hall meeting where graduate students can openly discuss their concerns with the Director of Graduate Studies and the Head of the Department, in the presence of graduate student representatives. I participated in the Spring town hall which was hosted just 2 weeks ago. There was a long discussion about advisor matching - not focused on my particular case but the process in general. Some recommendations were proposed to improve the existing process and further discussions were promised. I hope the authorities can help prevent something like my case from happening again in the future either by making better admission decisions or implementing some of the proposed improvements. 
 
-Having said that, there is no guarantee that a student won’t land in a similar situation as I did. During admissions, the department’s incentive is to convince all offer recipients to accept their offers, which is why they are inclined to only focus on the pros and gloss over the cons of this process. It’s important that you understand both and are willing to make the necessary tradeoff based on your goals before choosing to join Princeton.
+Having said that, there is no guarantee that a student won’t land in a similar situation as I did. **During admissions, the department’s incentive is to convince all offer recipients to accept their offers, which is why they are inclined to only focus on the pros and gloss over the cons of this process.** It’s important that you understand both and are willing to make the necessary tradeoff based on your goals before choosing to join Princeton.
 
 ##### Pros 
 1. Students’ interests do often change by the end of first semester at Princeton. It’s exactly one year after submitting their graduate school applications, which is a lot of time to learn about several new topics and research directions. Several students have successfully completed their PhDs in research areas very different from what they had mentioned in their SoPs.
@@ -104,8 +104,7 @@ All the professors and administrative staff I interacted with were extremely fri
 
 #### On mental health <a name="mhealth"></a>
 
-These two words are thrown around a lot in western universities. The following article https://www.dailyprincetonian.com/article/2023/02/community-social-anxiety-introvert-mental-health-hobby-solitude-comedy-tv-streaming-cable-pay
-is a good example of the current state of public discourse on this topic among students. I almost always find two themes central to these conversations:
+These two words are thrown around a lot in western universities. This [article](https://www.dailyprincetonian.com/article/2023/02/community-social-anxiety-introvert-mental-health-hobby-solitude-comedy-tv-streaming-cable-pay) is a good example of the current state of public discourse on this topic among students. I almost always find two themes central to these conversations:
 Discussions around how mental health is extremely important and why all of us should really care about it
 Discussions around how the university is not doing enough to support the mental health of its students 
 
@@ -131,7 +130,7 @@ The only reason I mention this here is because it is closely linked to mental he
 
 #### On moving on <a name="moveon"></a>
 
-My PhD research at UIUC is going to be my entire focus in the coming years and I would prefer not ruminating over how I got there. I hope to be on good professional terms with all the professors I interacted with at Princeton. As far as I’m concerned, this chapter is closed. This blog post was written to achieve the three main objectives I listed at the start. It has detailed answers to all the questions I got from people when I shared my update with them. I wouldn’t be responding to any requests for sharing further details on this topic.
+My PhD research at UIUC is going to be my entire focus in the coming years and I would prefer not ruminating over how I got there. I hope to be on good professional terms with all the professors I interacted with at Princeton. As far as I’m concerned, this chapter is closed. **This blog post was written to achieve the three main objectives I listed at the start. It has detailed answers to all the questions I got from people when I shared my update with them. I wouldn’t be responding to any requests for sharing further details on this topic.**
 
 There is a lot to celebrate, a lot to look forward to, but most importantly a lot to work on and I’m just getting started.
 
