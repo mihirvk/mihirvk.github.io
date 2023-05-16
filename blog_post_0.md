@@ -25,7 +25,7 @@ permalink: /blog_post/
 
 ### Why this blog post <a name="why"></a>
 
-1. To save myself the trouble of repeating the whole story and answering the same questions every time someone asks
+1. To save myself the trouble of repeating the whole story and answering the same questions every time people ask
 2. To help future graduate school applicants make more informed decisions
 3. To assure any well wishers that I’m happy, healthy and more motivated than ever before
 
@@ -110,9 +110,9 @@ All the professors and administrative staff I interacted with were extremely fri
 
 #### On mental health <a name="mhealth"></a>
 
-These two words are thrown around a lot in western universities. This [article](https://www.dailyprincetonian.com/article/2023/02/community-social-anxiety-introvert-mental-health-hobby-solitude-comedy-tv-streaming-cable-pay) is a good example of the current state of public discourse on this topic among students. I almost always find two themes central to these conversations:
-Discussions around how mental health is extremely important and why all of us should really care about it
-Discussions around how the university is not doing enough to support the mental health of its students 
+These two words are thrown around a lot in western universities. This [article](https://www.dailyprincetonian.com/article/2023/02/community-social-anxiety-introvert-mental-health-hobby-solitude-comedy-tv-streaming-cable-pay) is a good example of the current state of public discourse on this topic among students. I almost always find two themes central to these conversations:  
+1. Discussions around how mental health is extremely important and why all of us should really care about it
+2. Discussions around how the university is not doing enough to support the mental health of its students 
 
 I think most of us already know point 1 and point 2 is a slippery slope which can lead to students demonizing the university for not giving them free Netflix as demonstrated by that article. So ultimately, in my opinion, these conversations seldom lead to anything productive. 
 
