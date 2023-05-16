@@ -151,8 +151,8 @@ Grateful to:
 5. Grandparents who sadly didn’t show any respect for my decision, scolded me at length and said that I had let them down because how dare I lose some weight
 6. Sister whom I only mention so that she doesn’t feel left out when in fact she didn’t pick up any of my calls because apparently “saving lives” is more important than discussing which fancy school I go to
 7. Relatives in the US whom I can always count on to help me with anything even though I haven’t completely figured out how exactly we are related
-Relatives in India who I’m sure will gossip about this story but will have a hard time getting the pronunciation of “Urbana-Champaign” right
-8. Anyone out there who is cheering for me who I might not have interacted with in a very long time but who was happy to spend 20 mins reading through this long and pretentious life update 
+8. Relatives in India who I’m sure will gossip about this story but will have a hard time getting the pronunciation of “Urbana-Champaign” right
+9. Anyone out there who is cheering for me who I might not have interacted with in a very long time but who was happy to spend 20 mins reading through this long and pretentious life update 
 
 Yours sincerely,
 
