@@ -10,8 +10,8 @@ permalink: /course_list/
 - Machine Learning and Pattern Recognition [ECE535]
 - Photonics and Lightwave Communications [ECE558]
 - Wireless and High Speed Integrated Circuits and Systems [ECE582]
-- Computer Architecture [ECE575] (will complete by May '23)
-- Systems and Machine Learning [COS598D] (will complete by May '23)
+- Computer Architecture [ECE575] 
+- Systems and Machine Learning [COS598D]
 
 ## IIT Bombay
 
