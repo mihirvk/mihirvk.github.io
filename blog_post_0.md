@@ -116,9 +116,9 @@ These two words are thrown around a lot in western universities. This [article](
 
 I think most of us already know point 1 and point 2 is a slippery slope which can lead to students demonizing the university for not giving them free Netflix as demonstrated by that article. So ultimately, in my opinion, these conversations seldom lead to anything productive. 
 
-For someone struggling with mental health (all of us do at some point in our lives), it would probably be more helpful if there are more open conversations focused on:
-Discussions around efficacy of different interventions and strategies that seem to have a high probability of leading to better mental health outcomes 
-Personal anecdotes from people about their experience in dealing with mental health problems and what worked for them
+For someone struggling with mental health (all of us do at some point in our lives), it would probably be more helpful if there are more open conversations focused on:  
+1. Discussions around efficacy of different interventions and strategies that seem to have a high probability of leading to better mental health outcomes 
+2. Personal anecdotes from people about their experience in dealing with mental health problems and what worked for them
 
 I’m taking this opportunity to encourage more open conversations by sharing my experience:
 
