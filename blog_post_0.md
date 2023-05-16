@@ -1,3 +1,9 @@
+---
+layout: page
+title: Blog
+permalink: /blog_post/
+---
+
 ## Life update: I’m transferring from Princeton to UIUC
 *16th May, 2023* 
 
