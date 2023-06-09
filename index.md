@@ -28,6 +28,9 @@ Through this webpage, I intend to showcase some of my past and on-going projects
   - Started working as a PhD student at Electrical and Computer Engineering Department, Princeton University. 
   - Paper titled [_Analog/Mixed-Signal Classification for Voice Activity Detection_](https://ieeexplore.ieee.org/abstract/document/9971057) accepted for lecture presentation at IEEE International Conference on Electronics Circuits and Systems.  
   - Paper titled [_Analog Acoustic Feature Extraction and Delta-Sigma Modulation based Neural Network Classification for Voice Activity Detection_](https://ieeexplore.ieee.org/document/10039873) accepted for lecture presentation at IEEE India Council International Conference.
-- **August 2022**: Graduated from IIT Bombay with BTech and MTech in Electrical Engineering and Minor in Systems and Control Engineering. Awarded the Undergraduate Research Award (URA03)!
-- **January 2022**: Started working as a Teaching Assistant (TA) for EE719 Mixed-Signal VLSI Design.
-- **December 2021**: Co-authored articles on [Global  Chip Shortage](https://www.ee.iitb.ac.in/~bh/pages/articles/Global-Chip-Shortage.html) and [IITB EE PhD Program](https://www.ee.iitb.ac.in/~bh/pages/articles/Demystifying-the-PhD-Program.html) for [BackgroundHum](https://www.ee.iitb.ac.in/~bh/index.html), the official student newsletter of the Department of Electrical Engineering, IIT Bombay.
+- **August 2022**: 
+  - Graduated from IIT Bombay with BTech and MTech in Electrical Engineering and Minor in Systems and Control Engineering. Awarded the Undergraduate Research Award (URA03)!
+- **January 2022**: 
+  - Started working as a Teaching Assistant (TA) for EE719 Mixed-Signal VLSI Design.
+- **December 2021**: 
+  - Co-authored articles on [Global  Chip Shortage](https://www.ee.iitb.ac.in/~bh/pages/articles/Global-Chip-Shortage.html) and [IITB EE PhD Program](https://www.ee.iitb.ac.in/~bh/pages/articles/Demystifying-the-PhD-Program.html) for [BackgroundHum](https://www.ee.iitb.ac.in/~bh/index.html), the official student newsletter of the Department of Electrical Engineering, IIT Bombay.
