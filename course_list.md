@@ -4,6 +4,13 @@ title: Courses
 permalink: /course_list/
 ---
 
+## UIUC
+
+- Broadband Wireline Circuits [ECE598PH]
+- Advanced Digital Signal Processing [ECE551]
+- Random Processes [ECE534]
+- Communication Networks [CS438]
+
 ## Princeton University
 
 - Design of VLSI Systems [ECE562]
