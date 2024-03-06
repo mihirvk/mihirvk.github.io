@@ -21,11 +21,10 @@ Through this webpage, I intend to showcase some of my past and on-going projects
 
 ## About
 
-<img align="left" src="assets/images/Mihir_dp_square.png" alt="Mihir Kavishwar" style="height: 170px; width:170px; padding: 5px 20px 20px 0px;"/> 
+<img align="left" src="assets/images/Mihir_dp_square.png" alt="Mihir Kavishwar" style="height: 170px; width:170px; padding: 5px 20px 10px 0px;"/> 
 
 I am a PhD student at the [University of Illinois Urbana-Champaign](https://illinois.edu/) in the Department of Electrical and Computer Engineering. I'm pursuing my doctorate degree under the guidance of [Prof. Naresh Shanbhag](https://shanbhag.ece.illinois.edu/). My research interests include integrated circuits, signal processing, communication systems, computer architecture and machine learning. Prior to joining UIUC, I studied at Princeton University for two semesters as a doctoral student and a Gordon Wu Fellow. I completed my Undergraduate and Master’s degrees from the Indian Institute of Technology Bombay.
 
-<br>
 <br>
 
 ## Updates 
