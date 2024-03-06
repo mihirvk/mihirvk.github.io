@@ -19,9 +19,12 @@ I graduated from [Electrical Engineering Department, IIT Bombay](https://www.ee.
 <!-- 
 Through this webpage, I intend to showcase some of my past and on-going projects. If you find any of this stuff exciting and would like to know more, feel free to shoot me an email! You can find a summary of my projects in my [CV]({{site.url}}/assets/pdfs/Mihir_Kavishwar_Academic_CV.pdf). For more details, check out the [Projects]({{site.url}}/projects) section. I am working on compiling a list of good resources relevant to my research, the same can be found in the [Resources]({{site.url}}/resources) section. -->
 
-
+## About
+I am an Electrical and Computer Engineering PhD student at the [University of Illinois Urbana-Champaign](https://illinois.edu/). I'm pursuing my doctorate degree under the guidance of [Prof. Naresh Shanbhag](https://shanbhag.ece.illinois.edu/). My research interests include integrated circuits, signal processing, communication systems, computer architecture and machine learning. Prior to joining UIUC, I studied at Princeton University for two semesters as a doctoral student and a Gordon Wu Fellow. I completed my Undergraduate and Master’s degrees from the Indian Institute of Technology Bombay.
 
 ## Updates
+- **January 2024**:
+  - Paper titled **Massive MIMO Signal Detection using SRAM-based In-Memory Computing** accepted for lecture presentation at IEEE International Symposium on Circuits and Systems.
 - **May 2023**:
   - Transferring from Princeton University to University of Illinois Urbana-Champaign (UIUC) [[Full Story]({{site.url}}/blog_post)] 
 - **September 2022**: 
