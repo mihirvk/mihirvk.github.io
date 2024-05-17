@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/ 
 ---
-Last updated: Sep 2022
+Last updated: Jan 2024
 
 <!-- <object data="{{site.url}}/assets/pdfs/Mihir_CV.pdf" width="800" height="800" type='application/pdf'></object> -->
 
