@@ -11,8 +11,8 @@ permalink: /blog_post/
 - [Background](#background)
 - [What happened](#what)
 - [Transfer logistics](#logistics)
-<!--
 
+<!--
 - [Reflections and personal comments](#reflections)
     - [On responsibility](#responsibility)
     - [On transparency](#transparency)
@@ -23,7 +23,6 @@ permalink: /blog_post/
     - [On gratitude](#gratitude)
 
  
-
 ### Why this blog post <a name="why"></a>
 
 1. To save myself the trouble of repeating the whole story and answering the same questions every time people ask
