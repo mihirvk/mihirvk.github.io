@@ -8,10 +8,11 @@ permalink: /blog_post/
 *16th May, 2023* 
 
 ### Table of Contents
-- [Why this blog post](#why)
 - [Background](#background)
 - [What happened](#what)
 - [Transfer logistics](#logistics)
+<!--
+
 - [Reflections and personal comments](#reflections)
     - [On responsibility](#responsibility)
     - [On transparency](#transparency)
@@ -28,6 +29,7 @@ permalink: /blog_post/
 1. To save myself the trouble of repeating the whole story and answering the same questions every time people ask
 2. To help future graduate school applicants make more informed decisions
 3. To assure any well wishers that I’m happy, healthy and more motivated than ever before
+-->
 
 ### Background <a name="background"></a>
 
@@ -45,6 +47,7 @@ Last year when I was deciding which university to join for my graduate studies, 
 
 Now once I decided that I didn’t want to stay at Princeton and I also didn’t want to give up the pursuit of a PhD, the next logical step was to try to transfer to a different university. I was still very interested in working with the professor at UIUC I had interacted with last year. So I reached out to him again in the middle of my second semester at Princeton. We had discussions over several weeks and incredibly he finally decided to accept my application. I got a formal offer by mid-April.
 
+
 ### Transfer logistics <a name="logistics"></a>
 
 UIUC’s ECE department was considerate of my situation and allowed me to apply several months late based on this professor’s recommendation. I could import a lot of material from my previous year’s application. But I couldn’t transfer any Princeton course credits since I’m entering their direct PhD program (not MS+PhD) which doesn’t allow for credit transfer. So when I say I’m *transferring* it basically means I’m quitting Princeton and starting fresh at UIUC. The good thing though is unlike Princeton, PhD students at UIUC are expected to start research right away from the first semester while doing courses in parallel.
@@ -53,6 +56,7 @@ My SEVIS record and my F1 visa is currently linked to Princeton. The process for
 
 I also asked my advisor and the ECE department at UIUC if I could start early in Summer instead of waiting till the Fall term for which new students are typically admitted. They figured out a way to get me started early. I’ll be arriving on campus towards the end of May. 
 
+<!--
 ### Reflections and personal comments <a name="reflections"></a>
 
 #### On responsibility <a name="responsibility"></a>
@@ -160,5 +164,5 @@ Mihir Kavishwar
 First year PhD student @ UIUC  
 BTech, MTech @ IITB  
 Princeton dropout 
-
+-->
 
