@@ -30,7 +30,7 @@ Hey there! I am a PhD student at the [University of Illinois Urbana-Champaign](h
 
 ## Updates 
 - **January 2024**:
-  - Paper titled **Massive MIMO Signal Detection using SRAM-based In-Memory Computing** accepted for lecture presentation at IEEE International Symposium on Circuits and Systems.
+  - Paper titled [_Massive MIMO Signal Detection using SRAM-based In-Memory Computing_](https://ieeexplore.ieee.org/document/10558118) accepted for lecture presentation at IEEE International Symposium on Circuits and Systems.
 - **May 2023**:
   - Transferring from Princeton University to University of Illinois Urbana-Champaign (UIUC)
 - **September 2022**: 
