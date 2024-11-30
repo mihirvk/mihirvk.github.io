@@ -9,8 +9,9 @@ title: Resources
 permalink: /resources/ 
 --- -->
 
-1. **M. Kavishwar**, P. Kurrey and R. Zele, "Analog Acoustic Feature Extraction and Delta-Sigma Modulation based Neural Network Classification for Voice Activity Detection," 2022 IEEE 19th India Council International Conference (INDICON), Kochi, India, 2022, pp. 1-4, doi: [10.1109/INDICON56171.2022.10039873](https://ieeexplore.ieee.org/document/10039873).
-2. P. Kurrey, **M. Kavishwar** and R. Zele, "Analog/Mixed-Signal Classification for Voice Activity Detection," 2022 29th IEEE International Conference on Electronics, Circuits and Systems (ICECS), Glasgow, United Kingdom, 2022, pp. 1-4, doi: [10.1109/ICECS202256217.2022.9971057](https://ieeexplore.ieee.org/document/9971057).
+1. **M. Kavishwar** and N. Shanbhag, "Massive MIMO Signal Detection using SRAM-based In-Memory Computing," 2024 IEEE International Symposium on Circuits and Systems (ISCAS), Singapore, Singapore, 2024, pp. 1-5, doi: [10.1109/ISCAS58744.2024.10558118](https://ieeexplore.ieee.org/document/10558118).
+2.  **M. Kavishwar**, P. Kurrey and R. Zele, "Analog Acoustic Feature Extraction and Delta-Sigma Modulation based Neural Network Classification for Voice Activity Detection," 2022 IEEE 19th India Council International Conference (INDICON), Kochi, India, 2022, pp. 1-4, doi: [10.1109/INDICON56171.2022.10039873](https://ieeexplore.ieee.org/document/10039873).
+3. P. Kurrey, **M. Kavishwar** and R. Zele, "Analog/Mixed-Signal Classification for Voice Activity Detection," 2022 29th IEEE International Conference on Electronics, Circuits and Systems (ICECS), Glasgow, United Kingdom, 2022, pp. 1-4, doi: [10.1109/ICECS202256217.2022.9971057](https://ieeexplore.ieee.org/document/9971057).
 
 <!-- **Work in progress. More content would be added soon.**
 
