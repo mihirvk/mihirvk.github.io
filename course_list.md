@@ -6,6 +6,8 @@ permalink: /course_list/
 
 ## UIUC
 
+- Advanced Digital Communication [ECE562]
+- VLSI in Machine Learning [ECE498NSG]
 - Broadband Wireline Circuits [ECE598PH]
 - Advanced Digital Signal Processing [ECE551]
 - Random Processes [ECE534]
