@@ -29,6 +29,8 @@ Hey there! I am a PhD student at the [University of Illinois Urbana-Champaign](h
 <br>
 
 ## Updates 
+- **August 2025**:
+  - Paper titled [_Energy-Accuracy Trade-Offs in Massive MIMO Signal Detection Using SRAM-Based In-Memory Computing_](https://ieeexplore.ieee.org/abstract/document/11112521) accepted in IEEE Transactions on Circuits and Systems I: Regular Papers.
 - **January 2024**:
   - Paper titled [_Massive MIMO Signal Detection using SRAM-based In-Memory Computing_](https://ieeexplore.ieee.org/document/10558118) accepted for lecture presentation at IEEE International Symposium on Circuits and Systems.
 - **May 2023**:
