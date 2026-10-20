@@ -1,0 +1,13 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import { render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+interface Props { post: CollectionEntry<'writing'>; legacy?: boolean; }
+const { post, legacy = false } = Astro.props;
+const { Content } = await render(post);
+const date = new Intl.DateTimeFormat('en-US', { month: 'long', day: 'numeric', year: 'numeric', timeZone: 'UTC' }).format(new Date(`${post.data.date}T00:00:00Z`));
+---
+<BaseLayout title={post.data.title} description={post.data.description ?? post.data.title} canonicalPath={`/writing/${post.id}/`}>
+  <header class="page-header article-header"><p class="eyebrow">{post.data.category} · <time datetime={post.data.date}>{date}</time></p><h1>{post.data.title}</h1>{post.data.description && <p class="lead">{post.data.description}</p>}<a class="back-link" href="/writing/">← All writing</a>{legacy && <p class="compatibility-note">This article is also available in its new home in <a href={`/writing/${post.id}/`}>Writing</a>.</p>}</header>
+  <article class="prose"><Content /></article>
+</BaseLayout>

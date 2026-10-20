@@ -1,0 +1,7 @@
+---
+import { getEntry } from 'astro:content';
+import WritingArticle from '../components/WritingArticle.astro';
+const post = await getEntry('writing', 'princeton-to-uiuc');
+if (!post || post.data.draft) throw new Error('Published legacy article not found.');
+---
+<WritingArticle post={post} legacy />

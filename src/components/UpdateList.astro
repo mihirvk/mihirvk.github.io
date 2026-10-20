@@ -1,0 +1,14 @@
+---
+import type { Update } from '../data/updates';
+import { formatMonth } from '../lib/news.mjs';
+interface Props { items: Update[]; compact?: boolean; }
+const { items, compact = false } = Astro.props;
+---
+<ol class:list={['update-list', { 'compact-updates': compact }]}>
+  {items.map((item) => <li>
+    <time datetime={item.date}>{formatMonth(item.date)}</time>
+    <div>{!compact && <><p class="update-category">{item.category}</p><h3>{item.title}</h3></>}<p>{item.text}</p>
+      {item.links.length > 0 && <div class="inline-links">{item.links.map((link) => <a href={link.href}>{link.label} <span aria-hidden="true">↗</span></a>)}</div>}
+    </div>
+  </li>)}
+</ol>

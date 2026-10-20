@@ -1,0 +1,9 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { experience } from '../data/background';
+import { profile } from '../data/profile';
+---
+<BaseLayout title="Internships">
+  <header class="page-header"><h1>Internships</h1><p class="lead">Industry experience during my studies.</p><a class="back-link" href="/#experience">← Back to experience</a></header>
+  <section class="page-section"><div class="prose">{experience.map((item) => <article class="entry"><h3><a href={item.url}>{item.title} ↗</a></h3><p class="entry-meta">{item.dates}</p><p>{item.text}</p></article>)}<p>Detailed internship reports cannot be shared for confidentiality reasons. More detail is available in my <a href={profile.links.cvPdf}>CV</a>.</p></div></section>
+</BaseLayout>

@@ -1,0 +1,14 @@
+---
+interface Entry { title: string; dates: string; text?: string; url?: string; }
+interface Props { title: string; id: string; items: Entry[]; descriptions?: boolean; }
+const { title, id, items, descriptions = false } = Astro.props;
+---
+<div class="background-group" id={id}>
+  <h3>{title}</h3>
+  <ul class="background-list">
+    {items.map((item) => <li>
+      <p class="background-entry">{item.url ? <a href={item.url}>{item.title}</a> : <span>{item.title}</span>}<span class="background-date">{item.dates}</span></p>
+      {descriptions && item.text && <p class="background-detail">{item.text}</p>}
+    </li>)}
+  </ul>
+</div>

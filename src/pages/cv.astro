@@ -1,0 +1,8 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { profile } from '../data/profile';
+---
+<BaseLayout title="CV">
+  <header class="page-header"><p class="eyebrow">Background / Curriculum vitae</p><h1>Curriculum vitae</h1><div class="page-actions"><a class="button-link" href={profile.links.cvPdf}>Open CV (PDF) ↗</a></div><p class="cv-date muted">PDF last updated: {profile.cvUpdated}</p></header>
+  <section class="page-section prose"><h2>More details</h2><p>See the full <a href="/publications/">publication list</a>, my <a href="/#background">background</a>, and the <a href="/updates/">updates archive</a>.</p></section>
+</BaseLayout>

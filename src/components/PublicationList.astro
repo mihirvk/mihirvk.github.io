@@ -1,0 +1,16 @@
+---
+import type { Publication } from '../data/publications';
+interface Props { items: Publication[]; compact?: boolean; }
+const { items, compact = false } = Astro.props;
+---
+<ol class:list={['publication-list', { compact }]}>
+  {items.map((paper) => <li>
+    <div class="publication-meta"><span>{paper.type}</span><span>{paper.year}</span></div>
+    <div class="publication-body">
+      <h3><a href={paper.url}>{paper.title}</a></h3>
+      <p class="authors">{paper.authors.map((author, i) => <>{i > 0 && ', '}{author === 'Mihir Kavishwar' ? <strong>{author}</strong> : author}</>)}</p>
+      <p class="venue">{paper.venue}{!compact && paper.details && <> · {paper.details}</>}</p>
+      {!compact && <a class="small-link" href={paper.url}>{paper.type === 'Preprint' ? 'Read preprint' : 'Read paper'} <span aria-hidden="true">↗</span></a>}
+    </div>
+  </li>)}
+</ol>

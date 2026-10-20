@@ -1,0 +1,9 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+const posts = (await getCollection('writing', ({ data }) => !data.draft)).sort((a, b) => b.data.date.localeCompare(a.data.date));
+---
+<BaseLayout title="Writing">
+  <header class="page-header"><h1>Writing</h1><p class="lead">Some thoughts on academia and experiences along the way.</p></header>
+  <section class="page-section">{posts.map((post) => <article class="writing-row"><p class="eyebrow">{post.data.category} · {new Date(post.data.date).getUTCFullYear()}</p><h3><a href={`/writing/${post.id}/`}>{post.data.title} ↗</a></h3>{post.data.description && <p>{post.data.description}</p>}</article>)}</section>
+</BaseLayout>

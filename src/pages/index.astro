@@ -1,0 +1,48 @@
+---
+import { Image } from 'astro:assets';
+import { getCollection } from 'astro:content';
+import portrait from '../assets/portrait.jpg';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import SectionHeading from '../components/SectionHeading.astro';
+import PublicationList from '../components/PublicationList.astro';
+import UpdateList from '../components/UpdateList.astro';
+import BackgroundGroup from '../components/BackgroundGroup.astro';
+import { profile } from '../data/profile';
+import { education, experience, awards, service } from '../data/background';
+import { publications } from '../data/publications';
+import { updates } from '../data/updates';
+import { recentUpdates } from '../lib/news.mjs';
+const news = recentUpdates(updates);
+const writing = (await getCollection('writing', ({ data }) => !data.draft)).sort((a, b) => b.data.date.localeCompare(a.data.date)).slice(0, 2);
+---
+<BaseLayout>
+  <section class="hero" aria-labelledby="intro-title">
+    <div class="hero-copy">
+      <h1 id="intro-title" class="sr-only">About Mihir Kavishwar</h1>
+      <p class="hero-description">I’m a PhD student in Electrical and Computer Engineering at the <a href={profile.institutionUrl}>University of Illinois Urbana-Champaign</a>, working with <a href={profile.advisor.url}>Prof. {profile.advisor.name}</a>.</p>
+      <p class="hero-affiliation">{profile.research}</p>
+      <div class="social-links"><a href={profile.links.scholar}>Google Scholar</a><a href={profile.links.linkedin}>LinkedIn</a><a href={profile.links.cv}>CV</a></div>
+    </div>
+    <figure class="hero-portrait"><Image src={portrait} alt="Mihir Kavishwar" widths={[160, 320]} sizes="160px" width={320} height={427} format="webp" loading="eager" fetchpriority="high" /></figure>
+  </section>
+  <section class="home-section">
+    <SectionHeading label="" title="Recent updates" href="/updates/" linkLabel="All updates" />
+    {news.length > 0 ? <UpdateList items={news} compact /> : <p class="muted">For earlier milestones, visit the <a href="/updates/">updates archive</a>.</p>}
+  </section>
+  <section class="home-section">
+    <SectionHeading label="" title="Selected publications" href="/publications/" linkLabel="All publications" />
+    <PublicationList items={publications.filter((paper) => paper.selected)} compact />
+  </section>
+  <section class="home-section" id="background">
+    <SectionHeading label="" title="Background" href={profile.links.cv} linkLabel="CV" />
+    <BackgroundGroup title="Education" id="education" items={education} descriptions />
+    <BackgroundGroup title="Experience" id="experience" items={experience} descriptions />
+    <BackgroundGroup title="Awards" id="awards" items={awards} />
+    <BackgroundGroup title="Academic service" id="service" items={service} />
+    <div class="inline-links"><a href="/course_list/">Coursework and projects ↗</a></div>
+  </section>
+  <section class="home-section writing-section">
+    <SectionHeading label="" title="Writing" href="/writing/" linkLabel="All writing" />
+    {writing.map((post) => <article class="writing-row"><div><h3><a href={`/writing/${post.id}/`}>{post.data.title}</a></h3><p class="writing-date">{new Date(post.data.date).getUTCFullYear()}{post.data.description && <> · {post.data.description}</>}</p></div></article>)}
+  </section>
+</BaseLayout>

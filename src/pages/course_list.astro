@@ -1,0 +1,28 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+const projects = (await getCollection('projects')).sort((a, b) => a.data.order - b.data.order);
+const groups = ['Princeton Course Projects', 'IITB Dual Degree Project', 'IITB Course Projects', 'Miscellaneous'];
+const courses = await getEntry('coursework', 'courses');
+if (!courses) throw new Error('Course list is missing');
+const { Content } = await render(courses);
+---
+<BaseLayout title="Coursework">
+  <header class="page-header">
+    <h1>Coursework</h1>
+    <p class="lead">Projects and courses from my studies.</p>
+    <div class="page-actions"><a class="text-link" href="#projects">Projects</a><a class="text-link" href="#courses">Courses</a></div>
+  </header>
+  <section class="page-section coursework-projects" id="projects">
+    <h2>Projects</h2>
+    {groups.map((group) => <section class="project-group">
+      <h3>{group}</h3>
+      <ul class="project-list">{projects.filter((project) => project.data.group === group).map((project) => <li>
+        {project.data.course && <p class="project-course">{project.data.course}</p>}
+        <h4><a href={`/projects/${project.id}/`}>{project.data.title}</a></h4>
+        <div class="inline-links">{project.data.links.map((link) => <a href={link.href}>{link.label} ↗</a>)}</div>
+      </li>)}</ul>
+    </section>)}
+  </section>
+  <section class="page-section" id="courses"><h2>Courses</h2><div class="prose course-list"><Content /></div></section>
+</BaseLayout>

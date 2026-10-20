@@ -1,0 +1,55 @@
+name: Publish reviewed website
+on:
+  workflow_dispatch:
+    inputs:
+      reviewed:
+        description: 'I reviewed the final preview and want to publish it'
+        required: true
+        default: false
+        type: boolean
+permissions:
+  contents: read
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    if: inputs.reviewed && github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - run: npm run check
+      - run: npm test
+      - run: npm run build
+      - run: npm run test:site
+      - run: npm audit --audit-level=high
+      - run: npx playwright-core install --with-deps chromium
+      - name: Browser and accessibility checks
+        run: |
+          npm run preview > /tmp/website-preview.log 2>&1 &
+          for attempt in $(seq 1 30); do
+            if curl --silent --fail http://127.0.0.1:4321/ > /dev/null; then break; fi
+            sleep 1
+          done
+          npm run test:browser
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy reviewed build
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,11 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import UpdateList from '../components/UpdateList.astro';
+import { updates } from '../data/updates';
+const sorted = [...updates].sort((a, b) => b.date.localeCompare(a.date));
+const years = [...new Set(sorted.map(({ date }) => date.slice(0, 4)))];
+---
+<BaseLayout title="Updates">
+  <header class="page-header"><p class="eyebrow">The archive</p><h1>Updates & milestones</h1><p class="lead">A record of research, presentations, academic service, and new chapters along the way.</p></header>
+  {years.map((year) => <section class="page-section"><h2 class="archive-year">{year}</h2><UpdateList items={sorted.filter(({ date }) => date.startsWith(year))} /></section>)}
+</BaseLayout>
